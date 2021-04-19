@@ -1,0 +1,2580 @@
+{
+	"#000000": [
+		"black",
+		"纯黑"
+	],
+	"#000080": [
+		"navy",
+		"navy blue",
+		"海军蓝"
+	],
+	"#00008B": [
+		"blue 4",
+		"dark blue",
+		"暗蓝色",
+		"深蓝色"
+	],
+	"#0000CD": [
+		"blue 3",
+		"medium blue",
+		"中蓝色",
+		"适中的蓝色"
+	],
+	"#0000EE": [
+		"blue 2"
+	],
+	"#0000FF": [
+		"blue",
+		"纯蓝"
+	],
+	"#003153": [
+		"prussian blue"
+	],
+	"#003399": [
+		"dark powder blue"
+	],
+	"#0033FF": [
+		"ultramarine"
+	],
+	"#003A6C": [
+		"绀色"
+	],
+	"#004D99": [
+		"mineral blue"
+	],
+	"#005344": [
+		"铁色"
+	],
+	"#005831": [
+		"深緑"
+	],
+	"#006374": [
+		"strong blue"
+	],
+	"#006400": [
+		"dark green",
+		"暗绿色",
+		"深绿色"
+	],
+	"#00688B": [
+		"deep sky blue 4"
+	],
+	"#006C54": [
+		"萌葱色"
+	],
+	"#007947": [
+		"常盘色"
+	],
+	"#007D65": [
+		"青緑"
+	],
+	"#007FFF": [
+		"azure"
+	],
+	"#008000": [
+		"green",
+		"纯绿"
+	],
+	"#008080": [
+		"teal",
+		"水鸭色"
+	],
+	"#00808C": [
+		"peacock blue"
+	],
+	"#00868B": [
+		"turquoise 4"
+	],
+	"#008792": [
+		"御纳戸色"
+	],
+	"#008B00": [
+		"green 4"
+	],
+	"#008B45": [
+		"spring green 4"
+	],
+	"#008B8B": [
+		"cyan 4",
+		"dark cyan",
+		"暗青色",
+		"深青色"
+	],
+	"#009ACD": [
+		"deep sky blue 3"
+	],
+	"#009AD6": [
+		"青"
+	],
+	"#00A15C": [
+		"peacock green"
+	],
+	"#00A6AC": [
+		"浅葱色"
+	],
+	"#00ABA9": [
+		"win8 teal"
+	],
+	"#00AE9D": [
+		"青緑"
+	],
+	"#00B2EE": [
+		"deep sky blue 2"
+	],
+	"#00BFFF": [
+		"deep sky blue",
+		"深天蓝"
+	],
+	"#00C5CD": [
+		"turquoise 3"
+	],
+	"#00CD00": [
+		"green 3"
+	],
+	"#00CD66": [
+		"spring green 3"
+	],
+	"#00CDCD": [
+		"cyan 3"
+	],
+	"#00CED1": [
+		"dark turquoise",
+		"暗绿宝石",
+		"深绿宝石"
+	],
+	"#00E5EE": [
+		"turquoise 2"
+	],
+	"#00EE00": [
+		"green 2"
+	],
+	"#00EE76": [
+		"spring green 2"
+	],
+	"#00EEEE": [
+		"cyan 2"
+	],
+	"#00F5FF": [
+		"turquoise 1"
+	],
+	"#00FA9A": [
+		"medium aquamarine",
+		"medium spring green",
+		"中春绿色",
+		"适中的碧绿色"
+	],
+	"#00FF00": [
+		"green",
+		"lime",
+		"酸橙色",
+		"闪光绿"
+	],
+	"#00FF7F": [
+		"mintcream",
+		"spring green",
+		"春绿色",
+		"薄荷奶油"
+	],
+	"#00FF80": [
+		"spring green"
+	],
+	"#00FFEF": [
+		"turquoise blue"
+	],
+	"#00FFFF": [
+		"aqua",
+		"cyan",
+		"水绿色",
+		"水色",
+		"浅绿色",
+		"青色"
+	],
+	"#0C212B": [
+		"褐返"
+	],
+	"#0DBF8C": [
+		"cyan blue"
+	],
+	"#102B6A": [
+		"青蓝"
+	],
+	"#104E8B": [
+		"dodger blue 4"
+	],
+	"#11264F": [
+		"浓蓝"
+	],
+	"#121A2A": [
+		"青褐"
+	],
+	"#122E29": [
+		"锖鼠"
+	],
+	"#130C0E": [
+		"黒"
+	],
+	"#145B7D": [
+		"蓝色"
+	],
+	"#16982B": [
+		"mint"
+	],
+	"#181D4B": [
+		"铁绀"
+	],
+	"#1874CD": [
+		"dodger blue 3"
+	],
+	"#191970": [
+		"midnight blue",
+		"午夜的蓝色",
+		"午夜蓝"
+	],
+	"#1A2933": [
+		"蓝铁"
+	],
+	"#1B315E": [
+		"绀青"
+	],
+	"#1BA1E2": [
+		"win8 blue"
+	],
+	"#1C1C1C": [
+		"gray 1"
+	],
+	"#1C86EE": [
+		"dodger blue 2"
+	],
+	"#1D1626": [
+		"紫黒"
+	],
+	"#1D953F": [
+		"薄緑"
+	],
+	"#1E90FF": [
+		"dodger blue",
+		"道奇蓝",
+		"闪兰色"
+	],
+	"#20B2AA": [
+		"light sea green",
+		"浅海洋绿"
+	],
+	"#224B8F": [
+		"琉璃绀"
+	],
+	"#225A1F": [
+		"草色"
+	],
+	"#228B22": [
+		"forest green",
+		"森林绿"
+	],
+	"#228FBD": [
+		"缥色"
+	],
+	"#24367D": [
+		"dark mineral blue"
+	],
+	"#2468A2": [
+		"浅缥"
+	],
+	"#2570A1": [
+		"薄缥"
+	],
+	"#2585A6": [
+		"薄花色"
+	],
+	"#26619C": [
+		"lapislazuli"
+	],
+	"#27342B": [
+		"仙斎茶"
+	],
+	"#27408B": [
+		"royal blue 4"
+	],
+	"#274D3D": [
+		"革色"
+	],
+	"#281F1D": [
+		"黒铁"
+	],
+	"#293047": [
+		"铁御纳戸"
+	],
+	"#2A5CAA": [
+		"瑠璃色"
+	],
+	"#2B4490": [
+		"花色"
+	],
+	"#2B6447": [
+		"千歳緑"
+	],
+	"#2E3A1F": [
+		"蓝海松茶"
+	],
+	"#2E8B57": [
+		"sea green",
+		"海洋绿"
+	],
+	"#2F271D": [
+		"蝋色"
+	],
+	"#2F4F4F": [
+		"dark slate gray",
+		"暗瓦灰色",
+		"暗石板灰",
+		"深石板灰"
+	],
+	"#32CD32": [
+		"lime green",
+		"酸橙绿",
+		"闪光深绿"
+	],
+	"#339933": [
+		"win8 green"
+	],
+	"#33A3DC": [
+		"露草色"
+	],
+	"#363636": [
+		"gray 2"
+	],
+	"#36648B": [
+		"steel blue 4"
+	],
+	"#367459": [
+		"木贼色"
+	],
+	"#36BF36": [
+		"ivy green"
+	],
+	"#375830": [
+		"青白橡",
+		"麹尘"
+	],
+	"#3A5FCD": [
+		"royal blue 3"
+	],
+	"#3C3645": [
+		"浓鼠"
+	],
+	"#3CB371": [
+		"medium sea green",
+		"spring green",
+		"中海洋绿",
+		"春天的绿色"
+	],
+	"#3E4145": [
+		"黒橡"
+	],
+	"#401C44": [
+		"暗红"
+	],
+	"#402E4C": [
+		"二蓝"
+	],
+	"#40835E": [
+		"緑青色"
+	],
+	"#40E0D0": [
+		"turquoise",
+		"绿宝石"
+	],
+	"#411445": [
+		"紫绀"
+	],
+	"#412F1F": [
+		"涅色"
+	],
+	"#4169E1": [
+		"royal blue",
+		"宝蓝",
+		"皇军蓝",
+		"皇家蓝"
+	],
+	"#426AB3": [
+		"杜若色"
+	],
+	"#436EEE": [
+		"royal blue 2"
+	],
+	"#43CD80": [
+		"sea green 3"
+	],
+	"#444693": [
+		"绀桔梗"
+	],
+	"#45224A": [
+		"茄子绀"
+	],
+	"#454926": [
+		"媚茶"
+	],
+	"#458B00": [
+		"chartreuse 4"
+	],
+	"#458B74": [
+		"aquamarine 4"
+	],
+	"#45B97C": [
+		"緑"
+	],
+	"#464547": [
+		"墨"
+	],
+	"#46485F": [
+		"胜色"
+	],
+	"#4682B4": [
+		"steel blue",
+		"钢蓝",
+		"铁青"
+	],
+	"#472D56": [
+		"葡萄"
+	],
+	"#473C8B": [
+		"slate blue 4"
+	],
+	"#4798B3": [
+		"saxe blue"
+	],
+	"#483D8B": [
+		"dark slate blue",
+		"暗板岩蓝",
+		"暗灰蓝色",
+		"深岩暗蓝灰色"
+	],
+	"#4876FF": [
+		"royal blue 1"
+	],
+	"#48D1CC": [
+		"medium turquoise",
+		"中绿宝石"
+	],
+	"#494E8F": [
+		"绀蓝"
+	],
+	"#4A3113": [
+		"银煤竹"
+	],
+	"#4A708B": [
+		"sky blue 4"
+	],
+	"#4B0080": [
+		"indigo"
+	],
+	"#4B0082": [
+		"indigo",
+		"紫兰色",
+		"靛青"
+	],
+	"#4B2F3D": [
+		"浓色"
+	],
+	"#4D1F00": [
+		"coconut brown"
+	],
+	"#4D3900": [
+		"coffee"
+	],
+	"#4D4F36": [
+		"青钝"
+	],
+	"#4D80E6": [
+		"salvia blue"
+	],
+	"#4E72B8": [
+		"群青色"
+	],
+	"#4EEE94": [
+		"sea green 2"
+	],
+	"#4F4F4F": [
+		"gray 3"
+	],
+	"#4F5555": [
+		"钝色"
+	],
+	"#4F94CD": [
+		"steel blue 3"
+	],
+	"#508A88": [
+		"锖浅葱"
+	],
+	"#50B7C1": [
+		"新桥色"
+	],
+	"#525F42": [
+		"山鸠色"
+	],
+	"#528B8B": [
+		"dark slate gray 4"
+	],
+	"#53261F": [
+		"赤褐色"
+	],
+	"#53868B": [
+		"cadet blue 4"
+	],
+	"#54211D": [
+		"深绯"
+	],
+	"#543044": [
+		"灭紫"
+	],
+	"#548B54": [
+		"pale green 4"
+	],
+	"#54FF9F": [
+		"sea green 1"
+	],
+	"#551A8B": [
+		"purple 4"
+	],
+	"#556B2F": [
+		"dark olive green",
+		"olive drab",
+		"暗橄榄绿",
+		"橄榄土褐色"
+	],
+	"#563624": [
+		"黒茶"
+	],
+	"#56452D": [
+		"黄枯茶"
+	],
+	"#5686BF": [
+		"wedg wood blue"
+	],
+	"#585EAA": [
+		"桔梗色"
+	],
+	"#594C6D": [
+		"鸠羽鼠"
+	],
+	"#596032": [
+		"鶸茶"
+	],
+	"#5C7A29": [
+		"苔色"
+	],
+	"#5CACEE": [
+		"steel blue 2"
+	],
+	"#5D478B": [
+		"medium purple 4"
+	],
+	"#5E7C85": [
+		"蓝鼠"
+	],
+	"#5F3C23": [
+		"枯茶"
+	],
+	"#5F5D46": [
+		"生壁色"
+	],
+	"#5F9EA0": [
+		"cadet blue",
+		"军蓝",
+		"军服蓝",
+		"军校蓝"
+	],
+	"#607B8B": [
+		"light sky blue 4"
+	],
+	"#63434F": [
+		"葡萄鼠"
+	],
+	"#63B8FF": [
+		"steel blue 1"
+	],
+	"#64492B": [
+		"黄栌"
+	],
+	"#6495ED": [
+		"corn flower blue",
+		"矢车菊蓝"
+	],
+	"#65C294": [
+		"若竹色"
+	],
+	"#668B8B": [
+		"pale turquoise 4"
+	],
+	"#66CD00": [
+		"chartreuse 3"
+	],
+	"#66CDAA": [
+		"aquamarine 3",
+		"medium aquamarine",
+		"中宝石碧绿"
+	],
+	"#66FF00": [
+		"bright green"
+	],
+	"#66FFE6": [
+		"aqua blue"
+	],
+	"#68228B": [
+		"dark orchid 4"
+	],
+	"#68838B": [
+		"light blue 4"
+	],
+	"#694D9F": [
+		"菖蒲色"
+	],
+	"#6950A1": [
+		"青紫"
+	],
+	"#69541B": [
+		"国防色"
+	],
+	"#6959CD": [
+		"slate blue 3"
+	],
+	"#696969": [
+		"dim gray",
+		"gray 4",
+		"暗淡的灰色"
+	],
+	"#697723": [
+		"moss green"
+	],
+	"#698B22": [
+		"olive drab 4"
+	],
+	"#698B69": [
+		"dark sea green 4"
+	],
+	"#6A3427": [
+		"锖色"
+	],
+	"#6A5ACD": [
+		"slate blue",
+		"板岩暗蓝灰色",
+		"板岩蓝",
+		"石蓝色"
+	],
+	"#6A6DA9": [
+		"藤纳戸"
+	],
+	"#6B2C25": [
+		"栗梅"
+	],
+	"#6B473C": [
+		"焦茶"
+	],
+	"#6B8E23": [
+		"beige",
+		"olive drab",
+		"橄榄褐色",
+		"米色",
+		"浅褐色"
+	],
+	"#6C4C49": [
+		"煤竹色"
+	],
+	"#6C7B8B": [
+		"slate gray 4"
+	],
+	"#6CA6CD": [
+		"sky blue 3"
+	],
+	"#6D5826": [
+		"莺茶"
+	],
+	"#6D8346": [
+		"草色"
+	],
+	"#6E6B41": [
+		"海松色"
+	],
+	"#6E7B8B": [
+		"light steel blue 4"
+	],
+	"#6E8B3D": [
+		"dark olive green 4"
+	],
+	"#6F599C": [
+		"江戸紫"
+	],
+	"#6F60AA": [
+		"菫色"
+	],
+	"#6F6D85": [
+		"薄鼠"
+	],
+	"#704214": [
+		"sepia"
+	],
+	"#705628": [
+		"黄橡"
+	],
+	"#708090": [
+		"slate gray",
+		"灰石色",
+		"石板灰"
+	],
+	"#70A19F": [
+		"水浅葱"
+	],
+	"#726930": [
+		"利久色"
+	],
+	"#72777B": [
+		"铅色"
+	],
+	"#72BAA7": [
+		"青竹色"
+	],
+	"#733A31": [
+		"海老茶"
+	],
+	"#73B839": [
+		"foliage green"
+	],
+	"#73B9A2": [
+		"青磁色"
+	],
+	"#7400A1": [
+		"pansy"
+	],
+	"#74787C": [
+		"薄墨色"
+	],
+	"#74905D": [
+		"松叶色"
+	],
+	"#76624C": [
+		"空五倍子色"
+	],
+	"#769149": [
+		"苗色"
+	],
+	"#76BECC": [
+		"秘色"
+	],
+	"#76EE00": [
+		"chartreuse 2"
+	],
+	"#76EEC6": [
+		"aquamarine 2"
+	],
+	"#77787B": [
+		"灰色"
+	],
+	"#778899": [
+		"light slate gray",
+		"亮石板灰",
+		"亮蓝灰",
+		"浅石板灰"
+	],
+	"#77AC98": [
+		"千草色"
+	],
+	"#78331E": [
+		"赤铜色"
+	],
+	"#78A355": [
+		"柳色"
+	],
+	"#78CDD1": [
+		"白群"
+	],
+	"#79CDCD": [
+		"dark slate gray 3"
+	],
+	"#7A1723": [
+		"绯"
+	],
+	"#7A378B": [
+		"medium orchid 4"
+	],
+	"#7A67EE": [
+		"slate blue 2"
+	],
+	"#7A8B8B": [
+		"light cyan 4"
+	],
+	"#7AC5CD": [
+		"cadet blue 3"
+	],
+	"#7B68EE": [
+		"medium slate blue",
+		"中暗蓝色",
+		"中板岩蓝",
+		"适中的板岩暗蓝灰色"
+	],
+	"#7BBFEA": [
+		"勿忘草色"
+	],
+	"#7C8577": [
+		"利休鼠"
+	],
+	"#7CCD7C": [
+		"pale green 3"
+	],
+	"#7CFC00": [
+		"lawn green",
+		"草坪绿",
+		"草绿色"
+	],
+	"#7D26CD": [
+		"purple 3"
+	],
+	"#7D5886": [
+		"古代紫"
+	],
+	"#7EC0EE": [
+		"sky blue 2"
+	],
+	"#7F00FF": [
+		"violet"
+	],
+	"#7F7522": [
+		"伽罗色"
+	],
+	"#7FB80E": [
+		"若緑"
+	],
+	"#7FFF00": [
+		"chartreuse",
+		"查特酒绿",
+		"黄绿色"
+	],
+	"#7FFFAA": [
+		"auqamarin",
+		"绿玉",
+		"碧绿色"
+	],
+	"#7FFFD4": [
+		"aquamarine",
+		"宝石碧绿",
+		"宝石绿"
+	],
+	"#800000": [
+		"maroon",
+		"栗色"
+	],
+	"#800080": [
+		"purple",
+		"紫色"
+	],
+	"#80752C": [
+		"青丹"
+	],
+	"#808000": [
+		"olive",
+		"橄榄"
+	],
+	"#808080": [
+		"gray",
+		"灰色"
+	],
+	"#817936": [
+		"油色"
+	],
+	"#826858": [
+		"丁子茶"
+	],
+	"#828282": [
+		"gray 5"
+	],
+	"#836FFF": [
+		"slate blue 1"
+	],
+	"#838B83": [
+		"honeydew 4"
+	],
+	"#838B8B": [
+		"azure 4"
+	],
+	"#840228": [
+		"真红"
+	],
+	"#84331F": [
+		"赤锖色"
+	],
+	"#843900": [
+		"褐色"
+	],
+	"#845538": [
+		"胡桃色"
+	],
+	"#8470FF": [
+		"light slate blue"
+	],
+	"#84BF96": [
+		"浅緑"
+	],
+	"#853F04": [
+		"焦香"
+	],
+	"#8552A1": [
+		"紫"
+	],
+	"#8674A1": [
+		"gray ish purple"
+	],
+	"#867892": [
+		"鸠羽色"
+	],
+	"#87481F": [
+		"桦茶色"
+	],
+	"#87843B": [
+		"莺色"
+	],
+	"#87CEEB": [
+		"sky blue",
+		"天蓝色"
+	],
+	"#87CEFA": [
+		"light sky blue",
+		"亮天蓝色",
+		"淡蓝色"
+	],
+	"#87CEFF": [
+		"sky blue 1"
+	],
+	"#892F1B": [
+		"弁柄色"
+	],
+	"#8968CD": [
+		"medium purple 3"
+	],
+	"#896A45": [
+		"朽叶色"
+	],
+	"#8A2BE2": [
+		"blue violet",
+		"深紫罗兰的蓝色",
+		"蓝紫罗兰"
+	],
+	"#8A2E3B": [
+		"浅苏芳"
+	],
+	"#8A5D19": [
+		"饴色"
+	],
+	"#8A8C8E": [
+		"鼠色"
+	],
+	"#8B0000": [
+		"dark red",
+		"red 4",
+		"深红色"
+	],
+	"#8B008B": [
+		"dark magenta",
+		"magenta 4",
+		"深洋红"
+	],
+	"#8B0A50": [
+		"deep pink 4"
+	],
+	"#8B1A1A": [
+		"firebrick 4"
+	],
+	"#8B1C62": [
+		"maroon 4"
+	],
+	"#8B2252": [
+		"violet red 4"
+	],
+	"#8B2323": [
+		"brown 4"
+	],
+	"#8B2500": [
+		"orange red 4"
+	],
+	"#8B3626": [
+		"tomato 4"
+	],
+	"#8B3A3A": [
+		"indian red 4"
+	],
+	"#8B3A62": [
+		"hot pink 4"
+	],
+	"#8B3E2F": [
+		"coral 4"
+	],
+	"#8B4500": [
+		"dark orange 4"
+	],
+	"#8B4513": [
+		"chocolate 4",
+		"saddle brown",
+		"重褐色",
+		"马鞍棕色"
+	],
+	"#8B4726": [
+		"sienna 4"
+	],
+	"#8B475D": [
+		"pale violet red 4"
+	],
+	"#8B4789": [
+		"orchid 4"
+	],
+	"#8B4C39": [
+		"salmon 4"
+	],
+	"#8B5742": [
+		"light salmon 4"
+	],
+	"#8B5A00": [
+		"orange 4"
+	],
+	"#8B5A2B": [
+		"tan 4"
+	],
+	"#8B5F65": [
+		"light pink 4"
+	],
+	"#8B636C": [
+		"pink 4"
+	],
+	"#8B658B": [
+		"dark g old enrod 4"
+	],
+	"#8B668B": [
+		"plum 4"
+	],
+	"#8B6914": [
+		"g old enrod 4"
+	],
+	"#8B6969": [
+		"rosy brown 4"
+	],
+	"#8B7355": [
+		"burly wood 4"
+	],
+	"#8B7500": [
+		"g old 4"
+	],
+	"#8B7765": [
+		"peach puff 4"
+	],
+	"#8B795E": [
+		"navajo white 4"
+	],
+	"#8B7B8B": [
+		"thistle 4"
+	],
+	"#8B7D6B": [
+		"bisque 4"
+	],
+	"#8B7D7B": [
+		"misty rose 4"
+	],
+	"#8B7E66": [
+		"wheat 4"
+	],
+	"#8B814C": [
+		"light g old enrod 4"
+	],
+	"#8B8378": [
+		"antique white 4"
+	],
+	"#8B8386": [
+		"lavender blush 4"
+	],
+	"#8B864E": [
+		"khaki 4"
+	],
+	"#8B8682": [
+		"sea shell 4"
+	],
+	"#8B8878": [
+		"cornsilk 4"
+	],
+	"#8B8970": [
+		"lemon chiffon 4"
+	],
+	"#8B8989": [
+		"snow 4"
+	],
+	"#8B8B00": [
+		"yellow 4"
+	],
+	"#8B8B7A": [
+		"light yellow 4"
+	],
+	"#8B8B83": [
+		"ivory 4"
+	],
+	"#8C531B": [
+		"丁子色"
+	],
+	"#8CBF26": [
+		"win8 lime"
+	],
+	"#8CE600": [
+		"apple green"
+	],
+	"#8DB6CD": [
+		"light sky blue 3"
+	],
+	"#8DEEEE": [
+		"dark slate gray 2"
+	],
+	"#8E3E1F": [
+		"栗色"
+	],
+	"#8E453F": [
+		"鸢色"
+	],
+	"#8E4585": [
+		"plum"
+	],
+	"#8E7437": [
+		"香色"
+	],
+	"#8EE5EE": [
+		"cadet blue 2"
+	],
+	"#8F4B2E": [
+		"茶色"
+	],
+	"#8F4B38": [
+		"桧皮色"
+	],
+	"#8F4B4A": [
+		"小豆色"
+	],
+	"#8FBC8F": [
+		"dark sea green",
+		"暗海洋绿",
+		"深海洋绿"
+	],
+	"#905A3D": [
+		"灰茶"
+	],
+	"#905D1D": [
+		"路考茶"
+	],
+	"#90D7EC": [
+		"空色"
+	],
+	"#90EE90": [
+		"light green",
+		"pale green 2",
+		"淡绿色"
+	],
+	"#912CEE": [
+		"purple 2"
+	],
+	"#918597": [
+		"薄色"
+	],
+	"#9370DB": [
+		"medium purple",
+		"中紫色"
+	],
+	"#9400D3": [
+		"dark violet",
+		"暗紫罗兰",
+		"深紫罗兰色"
+	],
+	"#94D6DA": [
+		"瓮覗"
+	],
+	"#96582A": [
+		"狐色"
+	],
+	"#96CDCD": [
+		"pale turquoise 3"
+	],
+	"#973C3F": [
+		"苏芳"
+	],
+	"#97FFFF": [
+		"dark slate gray 1"
+	],
+	"#987165": [
+		"梅染"
+	],
+	"#98F5FF": [
+		"cadet blue 1"
+	],
+	"#98FB98": [
+		"pale green",
+		"弱绿色",
+		"苍白的绿色"
+	],
+	"#990036": [
+		"cardinal red"
+	],
+	"#9932CC": [
+		"dark orchid",
+		"暗兰花紫",
+		"深兰花紫"
+	],
+	"#999D9C": [
+		"薄钝"
+	],
+	"#99FF4D": [
+		"freshleaves"
+	],
+	"#9A32CD": [
+		"dark orchid 3"
+	],
+	"#9AC0CD": [
+		"light blue 3"
+	],
+	"#9ACD32": [
+		"olive drab 3",
+		"yellow green",
+		"黄绿色"
+	],
+	"#9AFF9A": [
+		"pale green 1"
+	],
+	"#9B30FF": [
+		"purple 1"
+	],
+	"#9B95C9": [
+		"藤紫"
+	],
+	"#9BCD9B": [
+		"dark sea green 3"
+	],
+	"#9C9C9C": [
+		"gray 6"
+	],
+	"#9D9087": [
+		"茶鼠"
+	],
+	"#9F79EE": [
+		"medium purple 2"
+	],
+	"#9FB6CD": [
+		"slate gray 3"
+	],
+	"#A020F0": [
+		"purple"
+	],
+	"#A03939": [
+		"红海老茶"
+	],
+	"#A05000": [
+		"win8 brown"
+	],
+	"#A0522D": [
+		"sienna",
+		"黄土赭色"
+	],
+	"#A16B47": [
+		"camel"
+	],
+	"#A1A3A6": [
+		"银鼠"
+	],
+	"#A200FF": [
+		"win8 purple"
+	],
+	"#A2B5CD": [
+		"light steel blue 3"
+	],
+	"#A2CD5A": [
+		"dark olive green 3"
+	],
+	"#A39DAE": [
+		"mineral violet"
+	],
+	"#A3CF62": [
+		"萌黄"
+	],
+	"#A4C639": [
+		"android green"
+	],
+	"#A4D3EE": [
+		"light sky blue 2"
+	],
+	"#A52A2A": [
+		"brown",
+		"棕色"
+	],
+	"#A7324A": [
+		"红"
+	],
+	"#A7573B": [
+		"赭"
+	],
+	"#A9A9A9": [
+		"dark gray",
+		"深灰色"
+	],
+	"#AA2116": [
+		"绯色"
+	],
+	"#AA363D": [
+		"银朱"
+	],
+	"#AB82FF": [
+		"medium purple 1"
+	],
+	"#ABC88B": [
+		"若草色"
+	],
+	"#AC6767": [
+		"退红色"
+	],
+	"#ACE1AF": [
+		"celadon"
+	],
+	"#AD8B3D": [
+		"木兰色"
+	],
+	"#ADD8E6": [
+		"light blue",
+		"亮蓝",
+		"淡蓝"
+	],
+	"#ADFF2F": [
+		"green yellow",
+		"绿黄色"
+	],
+	"#AE5039": [
+		"炼瓦色"
+	],
+	"#AE6642": [
+		"土器色"
+	],
+	"#AEEEEE": [
+		"pale turquoise 2"
+	],
+	"#AFB4DB": [
+		"藤色"
+	],
+	"#AFDFE4": [
+		"水色"
+	],
+	"#AFEEEE": [
+		"pale turquoise",
+		"弱绿宝石",
+		"苍白的绿宝石"
+	],
+	"#B03060": [
+		"maroon"
+	],
+	"#B09DB9": [
+		"light violet"
+	],
+	"#B0C4DE": [
+		"light steel blue",
+		"亮钢蓝",
+		"淡钢蓝"
+	],
+	"#B0E0E6": [
+		"powder blue",
+		"火药蓝",
+		"火药青",
+		"粉蓝色"
+	],
+	"#B0E2FF": [
+		"light sky blue 1"
+	],
+	"#B22222": [
+		"firebrick",
+		"火砖色",
+		"耐火砖"
+	],
+	"#B22C46": [
+		"茜色"
+	],
+	"#B23AEE": [
+		"dark orchid 2"
+	],
+	"#B2D235": [
+		"黄緑"
+	],
+	"#B2DFEE": [
+		"light blue 2"
+	],
+	"#B3424A": [
+		"臙脂色"
+	],
+	"#B36D41": [
+		"土色"
+	],
+	"#B3EE3A": [
+		"olive drab 2"
+	],
+	"#B452CD": [
+		"medium orchid 3"
+	],
+	"#B4532A": [
+		"代赭"
+	],
+	"#B4533C": [
+		"赤茶"
+	],
+	"#B4534B": [
+		"红桦色"
+	],
+	"#B4CDCD": [
+		"light cyan 3"
+	],
+	"#B4EEB4": [
+		"dark sea green 2"
+	],
+	"#B54334": [
+		"土"
+	],
+	"#B57EDC": [
+		"lavender"
+	],
+	"#B5B5B5": [
+		"gray 7"
+	],
+	"#B64533": [
+		"丹"
+	],
+	"#B69968": [
+		"亜麻色"
+	],
+	"#B76F40": [
+		"琥珀色"
+	],
+	"#B7704F": [
+		"骆驼色"
+	],
+	"#B784A7": [
+		"operamauve"
+	],
+	"#B7BA6B": [
+		"抹茶色"
+	],
+	"#B87333": [
+		"bronze"
+	],
+	"#B8860B": [
+		"dark g old enrod",
+		"暗金菊黄"
+	],
+	"#B9D3EE": [
+		"slate gray 2"
+	],
+	"#BA55D3": [
+		"medium orchid",
+		"中兰花紫",
+		"适中的兰花紫"
+	],
+	"#BA8448": [
+		"黄土色"
+	],
+	"#BB505D": [
+		"今様色"
+	],
+	"#BBFFFF": [
+		"pale turquoise 1"
+	],
+	"#BC8F8F": [
+		"rosy brown",
+		"玫瑰棕色"
+	],
+	"#BCD2EE": [
+		"light steel blue 2"
+	],
+	"#BCEE68": [
+		"dark olive green 2"
+	],
+	"#BD6758": [
+		"曙色"
+	],
+	"#BDB76B": [
+		"dark khaki",
+		"暗黄褐色",
+		"深卡其布",
+		"深卡叽布"
+	],
+	"#BEBEBE": [
+		"gray"
+	],
+	"#BED742": [
+		"若草色"
+	],
+	"#BF3EFF": [
+		"dark orchid 1"
+	],
+	"#BFEFFF": [
+		"light blue 1"
+	],
+	"#C08081": [
+		"old rose"
+	],
+	"#C0C0C0": [
+		"silver",
+		"银灰色",
+		"银白色"
+	],
+	"#C0FF3E": [
+		"olive drab 1"
+	],
+	"#C1A173": [
+		"枯色"
+	],
+	"#C1CDC1": [
+		"honeydew 3"
+	],
+	"#C1CDCD": [
+		"azure 3"
+	],
+	"#C1FFC1": [
+		"dark sea green 1"
+	],
+	"#C37E00": [
+		"金色",
+		"黄金"
+	],
+	"#C63C26": [
+		"桦色"
+	],
+	"#C6E2FF": [
+		"slate gray 1"
+	],
+	"#C71585": [
+		"medium violet red",
+		"中紫罗兰红",
+		"适中的紫罗兰红色"
+	],
+	"#C76968": [
+		"真赭"
+	],
+	"#C77EB5": [
+		"菖蒲色"
+	],
+	"#C7A252": [
+		"芥子色"
+	],
+	"#C85D44": [
+		"桦色"
+	],
+	"#C88400": [
+		"萱草色"
+	],
+	"#C8A2C8": [
+		"lilac"
+	],
+	"#C99979": [
+		"洗柿"
+	],
+	"#C9A0DC": [
+		"wisteria"
+	],
+	"#CA8687": [
+		"薄柿"
+	],
+	"#CAE1FF": [
+		"light steel blue 1"
+	],
+	"#CAFF70": [
+		"dark olive green 1"
+	],
+	"#CBC547": [
+		"鶸色"
+	],
+	"#CC0080": [
+		"ruby"
+	],
+	"#CC5500": [
+		"burnt orange"
+	],
+	"#CCA3CC": [
+		"clematis"
+	],
+	"#CCB38C": [
+		"pale ocre"
+	],
+	"#CCCC4D": [
+		"mustard"
+	],
+	"#CCFF00": [
+		"light lime"
+	],
+	"#CD0000": [
+		"red 3"
+	],
+	"#CD00CD": [
+		"magenta 3"
+	],
+	"#CD1076": [
+		"deep pink 3"
+	],
+	"#CD2626": [
+		"firebrick 3"
+	],
+	"#CD2990": [
+		"maroon 3"
+	],
+	"#CD3278": [
+		"violet red 3"
+	],
+	"#CD3333": [
+		"brown 3"
+	],
+	"#CD3700": [
+		"orange red 3"
+	],
+	"#CD4F39": [
+		"tomato 3"
+	],
+	"#CD5555": [
+		"indian red 3"
+	],
+	"#CD5B45": [
+		"coral 3"
+	],
+	"#CD5C5C": [
+		"indian red",
+		"印度红"
+	],
+	"#CD6090": [
+		"hot pink 3"
+	],
+	"#CD6600": [
+		"dark orange 3"
+	],
+	"#CD661D": [
+		"chocolate 3"
+	],
+	"#CD6839": [
+		"sienna 3"
+	],
+	"#CD6889": [
+		"pale violet red 3"
+	],
+	"#CD69C9": [
+		"orchid 3"
+	],
+	"#CD7054": [
+		"salmon 3"
+	],
+	"#CD8162": [
+		"light salmon 3"
+	],
+	"#CD8500": [
+		"orange 3"
+	],
+	"#CD853F": [
+		"peru",
+		"tan 3",
+		"秘鲁"
+	],
+	"#CD8C95": [
+		"light pink 3"
+	],
+	"#CD919E": [
+		"pink 3"
+	],
+	"#CD950C": [
+		"dark g old enrod 3"
+	],
+	"#CD96CD": [
+		"plum 3"
+	],
+	"#CD9A5B": [
+		"人色",
+		"肉色"
+	],
+	"#CD9B1D": [
+		"g old enrod 3"
+	],
+	"#CD9B9B": [
+		"rosy brown 3"
+	],
+	"#CDAA7D": [
+		"burly wood 3"
+	],
+	"#CDAD00": [
+		"g old 3"
+	],
+	"#CDAF95": [
+		"peach puff 3"
+	],
+	"#CDB38B": [
+		"navajo white 3"
+	],
+	"#CDB5CD": [
+		"thistle 3"
+	],
+	"#CDB79E": [
+		"bisque 3"
+	],
+	"#CDB7B5": [
+		"misty rose 3"
+	],
+	"#CDBA96": [
+		"wheat 3"
+	],
+	"#CDBE70": [
+		"light g old enrod 3"
+	],
+	"#CDC0B0": [
+		"antique white 3"
+	],
+	"#CDC1C5": [
+		"lavender blush 3"
+	],
+	"#CDC5BF": [
+		"sea shell 3"
+	],
+	"#CDC673": [
+		"khaki 3"
+	],
+	"#CDC8B1": [
+		"cornsilk 3"
+	],
+	"#CDC9A5": [
+		"lemon chiffon 3"
+	],
+	"#CDC9C9": [
+		"snow 3"
+	],
+	"#CDCD00": [
+		"yellow 3"
+	],
+	"#CDCDB4": [
+		"light yellow 3"
+	],
+	"#CDCDC1": [
+		"ivory 3"
+	],
+	"#CDE6C7": [
+		"白緑"
+	],
+	"#CFCFCF": [
+		"gray 8"
+	],
+	"#D02090": [
+		"violet red"
+	],
+	"#D15FEE": [
+		"medium orchid 2"
+	],
+	"#D1923F": [
+		"朽叶"
+	],
+	"#D1C7B7": [
+		"石竹色"
+	],
+	"#D1EDF2": [
+		"pale blue"
+	],
+	"#D1EEEE": [
+		"light cyan 2"
+	],
+	"#D2553D": [
+		"洗朱"
+	],
+	"#D2691E": [
+		"chocolate",
+		"巧克力"
+	],
+	"#D2B48C": [
+		"tan",
+		"晒黑",
+		"茶色"
+	],
+	"#D3C6A6": [
+		"砂色"
+	],
+	"#D3D3D3": [
+		"light gray",
+		"浅灰色"
+	],
+	"#D3D7D4": [
+		"乳白色"
+	],
+	"#D5C59F": [
+		"练色"
+	],
+	"#D64F44": [
+		"赤丹"
+	],
+	"#D71345": [
+		"红色"
+	],
+	"#D8BFD8": [
+		"thistle",
+		"蓟"
+	],
+	"#D93A49": [
+		"红赤"
+	],
+	"#D94DFF": [
+		"mallow"
+	],
+	"#D9D6C3": [
+		"灰白"
+	],
+	"#DA70D6": [
+		"orchid",
+		"兰花的紫色",
+		"兰花紫",
+		"暗紫色"
+	],
+	"#DA765B": [
+		"肉桂色"
+	],
+	"#DAA520": [
+		"g old enrod",
+		"秋麒麟",
+		"金菊黄"
+	],
+	"#DB7093": [
+		"pale violet red",
+		"弱紫罗兰红",
+		"苍白的紫罗兰红色"
+	],
+	"#DBCE8F": [
+		"鸟子色"
+	],
+	"#DC143C": [
+		"crimson",
+		"深红",
+		"猩红"
+	],
+	"#DCDCDC": [
+		"gainsboro",
+		"庚斯博罗灰",
+		"淡灰色"
+	],
+	"#DDA0DD": [
+		"medium lavender magenta",
+		"plum",
+		"李子",
+		"李子紫",
+		"洋李色"
+	],
+	"#DE773F": [
+		"黄茶"
+	],
+	"#DEA32C": [
+		"栀子色"
+	],
+	"#DEAB8A": [
+		"赤白橡"
+	],
+	"#DEB887": [
+		"burly wood",
+		"硬木色",
+		"结实的树"
+	],
+	"#DEC674": [
+		"淡黄"
+	],
+	"#DECB00": [
+		"緑黄色"
+	],
+	"#DF73FF": [
+		"heliotrope"
+	],
+	"#DF9464": [
+		"小麦色"
+	],
+	"#E066FF": [
+		"medium orchid 1"
+	],
+	"#E0861A": [
+		"金茶"
+	],
+	"#E0B0FF": [
+		"mauve"
+	],
+	"#E0EEE0": [
+		"honeydew 2"
+	],
+	"#E0EEEE": [
+		"azure 2"
+	],
+	"#E0FFFF": [
+		"light cyan",
+		"淡青色"
+	],
+	"#E1FFFF": [
+		"light cyan",
+		"淡青色"
+	],
+	"#E32636": [
+		"alizarincrimson"
+	],
+	"#E51400": [
+		"win8 red"
+	],
+	"#E60000": [
+		"strong red"
+	],
+	"#E63995": [
+		"camellia"
+	],
+	"#E671B8": [
+		"win8 pink"
+	],
+	"#E68AB8": [
+		"flamingo"
+	],
+	"#E6B800": [
+		"chrome yellow"
+	],
+	"#E6C35C": [
+		"jasmine"
+	],
+	"#E6CFE6": [
+		"paillilac"
+	],
+	"#E6D933": [
+		"mimosa"
+	],
+	"#E6E6FA": [
+		"lavender",
+		"lavender mist",
+		"淡紫色",
+		"熏衣草淡紫"
+	],
+	"#E8E8E8": [
+		"gray 9"
+	],
+	"#E9967A": [
+		"dark salmon",
+		"深鲜(鲑鱼)肉色",
+		"鲑鱼色",
+		"深鲑鱼色"
+	],
+	"#EA66A6": [
+		"牡丹色"
+	],
+	"#ED1941": [
+		"赤"
+	],
+	"#EE0000": [
+		"red 2"
+	],
+	"#EE00EE": [
+		"magenta 2"
+	],
+	"#EE1289": [
+		"deep pink 2"
+	],
+	"#EE2C2C": [
+		"firebrick 2"
+	],
+	"#EE30A7": [
+		"maroon 2"
+	],
+	"#EE3A8C": [
+		"violet red 2"
+	],
+	"#EE3B3B": [
+		"brown 2"
+	],
+	"#EE4000": [
+		"orange red 2"
+	],
+	"#EE5C42": [
+		"tomato 2"
+	],
+	"#EE6363": [
+		"indian red 2"
+	],
+	"#EE6A50": [
+		"coral 2"
+	],
+	"#EE6AA7": [
+		"hot pink 2"
+	],
+	"#EE7600": [
+		"dark orange 2"
+	],
+	"#EE7621": [
+		"chocolate 2"
+	],
+	"#EE7942": [
+		"sienna 2"
+	],
+	"#EE799F": [
+		"pale violet red 2"
+	],
+	"#EE7AE9": [
+		"orchid 2"
+	],
+	"#EE8262": [
+		"salmon 2"
+	],
+	"#EE82EE": [
+		"lavender magenta",
+		"violet",
+		"紫罗兰"
+	],
+	"#EE9572": [
+		"light salmon 2"
+	],
+	"#EE9A00": [
+		"orange 2"
+	],
+	"#EE9A49": [
+		"tan 2"
+	],
+	"#EEA2AD": [
+		"light pink 2"
+	],
+	"#EEA9B8": [
+		"pink 2"
+	],
+	"#EEAD0E": [
+		"dark g old enrod 2"
+	],
+	"#EEAEEE": [
+		"plum 2"
+	],
+	"#EEB422": [
+		"g old enrod 2"
+	],
+	"#EEB4B4": [
+		"rosy brown 2"
+	],
+	"#EEC591": [
+		"burly wood 2"
+	],
+	"#EEC900": [
+		"g old 2"
+	],
+	"#EECBAD": [
+		"peach puff 2"
+	],
+	"#EECFA1": [
+		"navajo white 2"
+	],
+	"#EED2EE": [
+		"thistle 2"
+	],
+	"#EED5B7": [
+		"bisque 2"
+	],
+	"#EED5D2": [
+		"misty rose 2"
+	],
+	"#EED8AE": [
+		"wheat 2"
+	],
+	"#EEDC82": [
+		"light g old enrod 2"
+	],
+	"#EEDD82": [
+		"light g old enrod"
+	],
+	"#EEDFCC": [
+		"antique white 2"
+	],
+	"#EEE0E5": [
+		"lavender blush 2"
+	],
+	"#EEE5DE": [
+		"sea shell 2"
+	],
+	"#EEE685": [
+		"khaki 2"
+	],
+	"#EEE8AA": [
+		"pale godenrod",
+		"灰秋麒麟",
+		"灰菊黄",
+		"苍麒麟色"
+	],
+	"#EEE8CD": [
+		"cornsilk 2"
+	],
+	"#EEE9BF": [
+		"lemon chiffon 2"
+	],
+	"#EEE9E9": [
+		"snow 2"
+	],
+	"#EEEE00": [
+		"yellow 2"
+	],
+	"#EEEED1": [
+		"light yellow 2"
+	],
+	"#EEEEE0": [
+		"ivory 2"
+	],
+	"#EF4136": [
+		"红绯"
+	],
+	"#EF5B9C": [
+		"踯躅色"
+	],
+	"#F05B72": [
+		"蔷薇色"
+	],
+	"#F08080": [
+		"light coral",
+		"淡珊瑚色"
+	],
+	"#F09609": [
+		"win8 orange"
+	],
+	"#F0DC70": [
+		"刈安色"
+	],
+	"#F0E68C": [
+		"khaki",
+		"卡其布",
+		"卡叽布",
+		"黄褐色"
+	],
+	"#F0F8FF": [
+		"alice blue",
+		"爱丽丝蓝"
+	],
+	"#F0FFF0": [
+		"honey dew",
+		"蜂蜜",
+		"蜜瓜色",
+		"蜜色"
+	],
+	"#F0FFFF": [
+		"azure",
+		"蔚蓝色"
+	],
+	"#F15A22": [
+		"赤橙",
+		"金赤"
+	],
+	"#F15B6C": [
+		"韩红"
+	],
+	"#F173AC": [
+		"赤紫"
+	],
+	"#F26522": [
+		"朱色"
+	],
+	"#F28500": [
+		"tangerine"
+	],
+	"#F2EADA": [
+		"象牙色"
+	],
+	"#F36C21": [
+		"黄赤"
+	],
+	"#F3704B": [
+		"柿色"
+	],
+	"#F3715C": [
+		"铅丹色"
+	],
+	"#F391A9": [
+		"薄红梅"
+	],
+	"#F400A1": [
+		"fuchsia"
+	],
+	"#F47920": [
+		"橙色"
+	],
+	"#F47A55": [
+		"黄丹"
+	],
+	"#F4A460": [
+		"sand brown",
+		"sandy brown",
+		"沙棕色"
+	],
+	"#F58220": [
+		"蜜柑色"
+	],
+	"#F58F98": [
+		"桃色"
+	],
+	"#F5DEB3": [
+		"wheat",
+		"小麦色",
+		"浅黄色"
+	],
+	"#F5F5DC": [
+		"beige",
+		"灰棕色",
+		"米色"
+	],
+	"#F5F5F5": [
+		"white smoke",
+		"白烟"
+	],
+	"#F5FFFA": [
+		"medium spring green",
+		"mintcream",
+		"薄荷奶油",
+		"适中的春天的绿色"
+	],
+	"#F69C9F": [
+		"红梅色"
+	],
+	"#F6F5EC": [
+		"生成色"
+	],
+	"#F7ACBC": [
+		"鸨色"
+	],
+	"#F8ABA6": [
+		"珊瑚色"
+	],
+	"#F8F8FF": [
+		"ghost white",
+		"幽灵白"
+	],
+	"#FA8072": [
+		"salmon",
+		"鲑鱼色",
+		"鲜(鲑鱼)肉色"
+	],
+	"#FAA755": [
+		"柑子色"
+	],
+	"#FAB27B": [
+		"杏色"
+	],
+	"#FAEBD7": [
+		"antique white",
+		"古董白"
+	],
+	"#FAF0E6": [
+		"linen",
+		"亚麻布"
+	],
+	"#FAFAD2": [
+		"light g old enrod yellow",
+		"亮菊黄",
+		"浅秋麒麟黄"
+	],
+	"#FCAF17": [
+		"山吹色"
+	],
+	"#FCF16E": [
+		"黄檗色"
+	],
+	"#FDB933": [
+		"郁金色"
+	],
+	"#FDF5E6": [
+		"old lace",
+		"旧蕾丝",
+		"老花色",
+		"老饰带"
+	],
+	"#FEDCBD": [
+		"肌色"
+	],
+	"#FEEEED": [
+		"桜色"
+	],
+	"#FF0000": [
+		"red",
+		"纯红"
+	],
+	"#FF007F": [
+		"rose"
+	],
+	"#FF0097": [
+		"win8 magenta"
+	],
+	"#FF00FF": [
+		"fuchsia",
+		"magenta",
+		"洋红",
+		"紫红色",
+		"灯笼海棠",
+		"玫瑰红",
+		"紫红"
+	],
+	"#FF0DA6": [
+		"magenta rose"
+	],
+	"#FF1493": [
+		"deep pink",
+		"深粉红",
+		"深粉色"
+	],
+	"#FF3030": [
+		"firebrick 1"
+	],
+	"#FF34B3": [
+		"maroon 1"
+	],
+	"#FF3E96": [
+		"violet red 1"
+	],
+	"#FF4040": [
+		"brown 1"
+	],
+	"#FF4500": [
+		"orange red",
+		"橙红色"
+	],
+	"#FF4D40": [
+		"persimmon"
+	],
+	"#FF6347": [
+		"tomato",
+		"番茄",
+		"番茄红"
+	],
+	"#FF66CC": [
+		"rose pink"
+	],
+	"#FF69B4": [
+		"hot pink",
+		"热情的粉红"
+	],
+	"#FF6A6A": [
+		"indian red 1"
+	],
+	"#FF6EB4": [
+		"hot pink 1"
+	],
+	"#FF7256": [
+		"coral 1"
+	],
+	"#FF7300": [
+		"sun orange"
+	],
+	"#FF73B3": [
+		"spinel red"
+	],
+	"#FF7F00": [
+		"dark orange 1"
+	],
+	"#FF7F24": [
+		"chocolate 1"
+	],
+	"#FF7F50": [
+		"coral",
+		"珊瑚"
+	],
+	"#FF8033": [
+		"tropical orange"
+	],
+	"#FF8099": [
+		"salmon pink"
+	],
+	"#FF80BF": [
+		"coral pink"
+	],
+	"#FF8247": [
+		"sienna 1"
+	],
+	"#FF82AB": [
+		"pale violet red 1"
+	],
+	"#FF83FA": [
+		"orchid 1"
+	],
+	"#FF8C00": [
+		"dark orange",
+		"深橙色"
+	],
+	"#FF8C69": [
+		"salmon 1"
+	],
+	"#FF9900": [
+		"mari g old"
+	],
+	"#FFA07A": [
+		"light salmon",
+		"浅(鲜)鲑鱼肉色"
+	],
+	"#FFA500": [
+		"orange",
+		"橙色"
+	],
+	"#FFA54F": [
+		"tan 1"
+	],
+	"#FFAEB9": [
+		"light pink 1"
+	],
+	"#FFB366": [
+		"honey orange"
+	],
+	"#FFB3BF": [
+		"shell pink"
+	],
+	"#FFB3E6": [
+		"pearl pink"
+	],
+	"#FFB5C5": [
+		"pink 1"
+	],
+	"#FFB6C1": [
+		"light pink",
+		"浅粉红"
+	],
+	"#FFB90F": [
+		"dark g old enrod 1"
+	],
+	"#FFBBFF": [
+		"plum 1"
+	],
+	"#FFBF00": [
+		"amber"
+	],
+	"#FFC0CB": [
+		"pink",
+		"粉红"
+	],
+	"#FFC125": [
+		"g old enrod 1"
+	],
+	"#FFC1C1": [
+		"rosy brown 1"
+	],
+	"#FFC20E": [
+		"向日葵色"
+	],
+	"#FFCE7B": [
+		"卵色"
+	],
+	"#FFD39B": [
+		"burly wood 1"
+	],
+	"#FFD400": [
+		"蒲公英色",
+		"黄色"
+	],
+	"#FFD700": [
+		"g old",
+		"金"
+	],
+	"#FFD9E6": [
+		"baby pink"
+	],
+	"#FFDAB9": [
+		"peach puff",
+		"桃肉色",
+		"桃色"
+	],
+	"#FFDEAD": [
+		"navajo white",
+		"土著白",
+		"纳瓦白"
+	],
+	"#FFE1FF": [
+		"thistle 1"
+	],
+	"#FFE4B5": [
+		"moccasin",
+		"鹿皮色",
+		"鹿皮靴",
+		"鹿皮鞋"
+	],
+	"#FFE4C4": [
+		"浓汤(乳脂,番茄等)色",
+		"bisque",
+		"陶坯黄"
+	],
+	"#FFE4E1": [
+		"misty rose",
+		"浅玫瑰色",
+		"薄雾玫瑰"
+	],
+	"#FFE5B4": [
+		"peach"
+	],
+	"#FFE600": [
+		"中黄"
+	],
+	"#FFE7BA": [
+		"wheat 1"
+	],
+	"#FFEBCD": [
+		"blanchedalmond",
+		"漂白的杏仁",
+		"白杏色"
+	],
+	"#FFEC8B": [
+		"light g old enrod 1"
+	],
+	"#FFEF00": [
+		"canary yellow"
+	],
+	"#FFEFD5": [
+		"papayawhip",
+		"番木瓜",
+		"番木色"
+	],
+	"#FFEFDB": [
+		"antique white 1"
+	],
+	"#FFF0F5": [
+		"lavender blush",
+		"淡紫红",
+		"脸红的淡紫色"
+	],
+	"#FFF5EE": [
+		"sea shell",
+		"海贝壳"
+	],
+	"#FFF68F": [
+		"khaki 1"
+	],
+	"#FFF8DC": [
+		"cornsilk",
+		"玉米丝色",
+		"玉米色"
+	],
+	"#FFFACD": [
+		"lemon chiffon",
+		"柠檬绸",
+		"柠檬薄纱"
+	],
+	"#FFFAF0": [
+		"floral white",
+		"花的白色"
+	],
+	"#FFFAFA": [
+		"snow",
+		"雪",
+		"雪白色"
+	],
+	"#FFFDD0": [
+		"cream"
+	],
+	"#FFFEF9": [
+		"胡粉色"
+	],
+	"#FFFF00": [
+		"yellow",
+		"纯黄"
+	],
+	"#FFFF4D": [
+		"moon yellow"
+	],
+	"#FFFF99": [
+		"champagne yellow"
+	],
+	"#FFFFE0": [
+		"light yellow",
+		"浅黄色"
+	],
+	"#FFFFF0": [
+		"ivory",
+		"象牙"
+	],
+	"#FFFFFB": [
+		"白"
+	],
+	"#FFFFFF": [
+		"white",
+		"纯白"
+	]
+}
