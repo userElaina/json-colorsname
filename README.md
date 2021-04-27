@@ -1,2 +1,2 @@
 # json-of-color
-json of color
+`pip install colorsname`
